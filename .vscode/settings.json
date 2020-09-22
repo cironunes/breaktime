@@ -1,0 +1,6 @@
+{
+  "ocaml.sandbox": {
+    "kind": "esy",
+    "root": "/Users/ciro.nunes/nunes22/breaktime2"
+  }
+}

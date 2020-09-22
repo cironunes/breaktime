@@ -1,0 +1,5 @@
+(executable
+ (name Breaktime)
+ (public_name bt)
+  (preprocess (pps lwt_ppx))
+ (libraries core console.lib lib cmdliner logs logs.cli logs.fmt fmt fmt.tty fmt.cli lwt.unix))
